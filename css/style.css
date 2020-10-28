@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 40rem;
+}
+
+.block4{
+    height: 100%;
+    background-color: red;
+}
+
+.block5, .block6{
+    height: 50%;
+}
+
+.block4, .block5{
+    width: calc(100vw/3);
+}
+
+.block6{
+    width: calc((100vw/3)*2);
+    background-color: blue;
+}
+
+.block5{
+    background-color: green;
+}
