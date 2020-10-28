@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     flex-wrap: wrap;
     height: 40rem;
+    margin-left: 0;
 }
 
 .block4{
