@@ -6,21 +6,21 @@ body{
     margin-left: 0;
 }
 
-.block4{
+.block1{
     height: 100%;
     background-color: red;
 }
 
-.block5, .block6{
+.block2, .block3{
     height: 50%;
     background-color: green;
 }
 
-.block4, .block5{
+.block1, .block2{
     width: calc(100vw/3);
 }
 
-.block6{
+.block3{
     width: calc((100vw/3)*2);
     background-color: blue;
 }
