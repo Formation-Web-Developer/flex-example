@@ -11,6 +11,7 @@ body{
 }
 
 .block5, .block6{
+    background-color: green;
     height: 50%;
 }
 
@@ -21,8 +22,4 @@ body{
 .block6{
     width: calc((100vw/3)*2);
     background-color: blue;
-}
-
-.block5{
-    background-color: green;
 }
